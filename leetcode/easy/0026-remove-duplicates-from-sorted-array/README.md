@@ -63,8 +63,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 22.7 MB (beats 45.41%)  
-**Submitted:** 2026-10-31T18:27:30.828Z  
+**Memory:** 22.4 MB (beats 98.66%)  
+**Submitted:** 2026-10-31T18:29:03.505Z  
 
 ```cpp
 class Solution {
